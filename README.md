@@ -47,7 +47,7 @@ from six.moves import reduce
 
 ***
 ## 구현 기능
-### [ Acount App ]
+### [ Account App ]
 &ensp;: FBV로 구현 <br>
  - [X] 로그인/로그아웃
       - AuthenticationForm를 통한 사용자 인증
